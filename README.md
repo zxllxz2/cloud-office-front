@@ -1,4 +1,5 @@
-# yeb
+# Cloud Office Platform
+The Cloud Office Platform is a staff admin system with Role-Based Access Control. This repository is the front-end part of this platform. It uses the port 8080.
 
 ## Project setup
 ```

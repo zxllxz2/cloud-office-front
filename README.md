@@ -83,4 +83,4 @@ Thanks @is-liyiwei and @Coffcer for the vue-chat and vue-Chat-demo, both of whic
 More sections are under construction......
 
 ## Thanks
-Appreciate the channel "以代码为酒解忧愁" in Bilibili for helping me finishing this project!
+Appreciate the channel "以代码为酒解忧愁" in Bilibili for helping me finish this project!

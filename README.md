@@ -33,6 +33,14 @@ Thanks @is-liyiwei and @Coffcer for the vue-chat and vue-Chat-demo, both of whic
 
 ![image](https://user-images.githubusercontent.com/56448228/148746793-94b84368-39f2-4ad3-affb-fbb3b1905aaa.png)
 
+### Chat
+
+![image](https://user-images.githubusercontent.com/56448228/148747033-91fff5cc-9180-45da-b6a6-69a8acec5df6.png)
+
+![image](https://user-images.githubusercontent.com/56448228/148747163-6c0d5638-9d3a-48d2-b3c5-42be6f8d1fc5.png)
+
+![image](https://user-images.githubusercontent.com/56448228/148747121-75be6789-40d4-48b2-9d78-ad57aa4e426c.png)
+
 ### Basic employee Info
 
 ![image](https://user-images.githubusercontent.com/56448228/148745098-5bbc2706-bc24-4523-b4cd-c5994482d309.png)
@@ -51,7 +59,7 @@ Thanks @is-liyiwei and @Coffcer for the vue-chat and vue-Chat-demo, both of whic
 
 ![image](https://user-images.githubusercontent.com/56448228/148745855-6d4a180b-3493-4daf-aa0f-2183ce35eb1a.png)
 
-##### Emial invitation
+##### Email invitation
 
 ![image](https://user-images.githubusercontent.com/56448228/148746359-8bfd7768-1fd6-437c-8c50-41525d04614b.png)
 
@@ -66,14 +74,6 @@ Thanks @is-liyiwei and @Coffcer for the vue-chat and vue-Chat-demo, both of whic
 ![image](https://user-images.githubusercontent.com/56448228/148746661-a51b1bb2-1b55-4a5a-91e9-70d1a92e6df7.png)
 
 ![image](https://user-images.githubusercontent.com/56448228/148746735-55f3257f-aee3-4d6c-9fff-e949c2692e3b.png)
-
-### Chat
-
-![image](https://user-images.githubusercontent.com/56448228/148747033-91fff5cc-9180-45da-b6a6-69a8acec5df6.png)
-
-![image](https://user-images.githubusercontent.com/56448228/148747163-6c0d5638-9d3a-48d2-b3c5-42be6f8d1fc5.png)
-
-![image](https://user-images.githubusercontent.com/56448228/148747121-75be6789-40d4-48b2-9d78-ad57aa4e426c.png)
 
 ### Profile
 

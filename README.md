@@ -1,5 +1,5 @@
 # Cloud Office Platform
-The Cloud Office Platform is a staff admin system with Role-Based Access Control. This repository is the front-end part of this platform.
+The Cloud Office Platform a full-stack project of an employee management platform with Role-Based Access Control. This repository is the front-end architecture.
 
 ## Project setup
 ```
